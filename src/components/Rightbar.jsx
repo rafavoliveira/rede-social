@@ -11,7 +11,6 @@ import {
   ListItemText,
   Typography,
 } from "@mui/material";
-import { Divider } from "react-materialize";
 
 const Rightbar = () => {
   return (
