@@ -10,6 +10,7 @@ import {
   ListItemAvatar,
   ListItemText,
   Typography,
+  Divider
 } from "@mui/material";
 
 const Rightbar = () => {
